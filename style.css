@@ -67,3 +67,15 @@ h1 {
     align-items: center;
     justify-content: space-evenly;
   }
+
+  main {
+    padding: 1vw 10vw;
+}
+
+
+p {
+    font-family: "Times New Roman, obviously";
+    text-indent: 30px; 
+    line-height: 2; 
+  
+  }

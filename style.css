@@ -44,3 +44,26 @@ header {
 #contactButtons {
     padding-left: 10px;
 }
+
+h1 {
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-size: 33px;
+    font-weight: bold;
+    text-align: left;
+  }
+  
+  
+  .post p:first-child {
+    text-align: right;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  article {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+  }

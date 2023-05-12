@@ -1,0 +1,46 @@
+body {
+    font-family: 'Barlow Semi Condensed', sans-serif;
+
+}
+
+header {
+    padding: 1vw 10vw;
+}
+
+#logoSocial {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#headerLeftContainer {
+    display: flex;
+    align-items: center;
+}
+
+#headerRightContainer {
+    display: flex;
+}
+
+#delicious {
+    font-family: 'Yellowtail', cursive;
+    font-size: 32px;
+    font-weight: 500;
+}
+
+#logoTagLine {
+    padding-left: 4px;
+    font-size: 12px;
+}
+
+.deviderBar {
+    margin: 2vw 0vw;
+    height: 1vw;
+    width: 80vw;
+    background-image: url("img/hr-img.png");
+    background-repeat: repeat-x;
+}
+
+#contactButtons {
+    padding-left: 10px;
+}

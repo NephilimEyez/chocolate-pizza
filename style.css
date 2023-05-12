@@ -18,6 +18,10 @@ header {
     align-items: center;
 }
 
+#logoWord {
+ padding: 0vw 1vw;
+}
+
 #headerRightContainer {
     display: flex;
 }
@@ -29,7 +33,6 @@ header {
 }
 
 #logoTagLine {
-    padding-left: 4px;
     font-size: 12px;
 }
 
